@@ -1,0 +1,12 @@
+body {
+  background: #f8f9fa;
+}
+
+h1, h2 {
+  font-weight: 700;
+}
+
+footer {
+  font-size: 0.9rem;
+  color: #666;
+}
